@@ -3,11 +3,8 @@ Bootcamp assignment
 
 ## Description
 
-This is the second assignment for the Bootcamp. PORTFOLIO was great fun and I have used all the skills and knowledge gained in the past few weeks.
+I used previous PORTFOILIO assignment and updated it with new projects and details.
 
-It was quite easy looking when I was making it in my imagination, but when I started building it, I came to know that it is not easy to build a web page from scratch.
-
-I used the sample, provided in homework README and came up with my end result.
 
 ## Table of Contents
 
@@ -21,22 +18,24 @@ I used the sample, provided in homework README and came up with my end result.
 
 Following is the url link to access the deployed application.
 
-https://muradmanni.github.io/homework-portfolio/
+https://muradmanni.github.io/homework-portfolio-professional/
 
 
 ## URL (github repository)<a name="urlrepo"></a>
 
 Following link is to access the code files using github repository.
 
-https://github.com/muradmanni/homework-portfolio
+https://github.com/muradmanni/homework-portfolio-professional
 
 
 ## Layout
-   ![screenshot of the webpage](assets/images/MuradAli-PORTFOLIO.gif)
+   ![screenshot of the webpage](assets/images/screenshot1.jpg)
+
+   ![screenshot of the webpage](assets/images/screenshot2.jpg)
 
 ## Credits
 
-I did alot of research using Google.com and found some free sample images to use. (www.freepik.com)
+Previous portfolio assignment.
 
 ## License
 
